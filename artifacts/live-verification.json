@@ -1,0 +1,25 @@
+{
+  "address": "0x5847B68155F2a6Be6Df31A3e2a21492E907D6F5D",
+  "owner": "0xB5BA008474cbd30bb034AF2c04484eF6F857FE73",
+  "transaction": "0x88050c8224cc733037b5c1c9012214642c0bfc78b68dfc6a7b2ce21bf2ae1887",
+  "record": {
+    "claim": "Both sources contain ignore patterns for Python-generated files and directories.",
+    "creator": "0xb5ba008474cbd30bb034af2c04484ef6f857fe73",
+    "id": "LIVE-1788919405360",
+    "sources": [
+      {
+        "code": "AGREES",
+        "digest": "bd3551745ade4ac05d25e0ea719b8b9e1b5dff1d05325375802ad50a9b5d8f18",
+        "host": "raw.githubusercontent.com",
+        "url": "https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore"
+      },
+      {
+        "code": "AGREES",
+        "digest": "bd3551745ade4ac05d25e0ea719b8b9e1b5dff1d05325375802ad50a9b5d8f18",
+        "host": "cdn.jsdelivr.net",
+        "url": "https://cdn.jsdelivr.net/gh/github/gitignore@main/Python.gitignore"
+      }
+    ],
+    "verdict": "SUPPORTED"
+  }
+}
